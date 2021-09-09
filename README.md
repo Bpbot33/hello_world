@@ -1,2 +1,3 @@
 # hello_world
-Learning will us free
+
+My name is Bruno, i want to be a great developer someday. 
